@@ -28,26 +28,4 @@
   <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F87171" alt="Git" />
 </p>
 
----
 
-
-
-**SNAKE CONTRIBUTION GRAPH**
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eilo-milo/eilo-milo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-**RECENT REPOSITORIES**
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/eilo-milo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eilo-milo&repo=eilo-milo&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=9CA3AF" alt="Pinned Repo" />
-  </a>
-</p>
