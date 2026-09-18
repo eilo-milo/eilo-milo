@@ -3,22 +3,32 @@
 # ALAA AYMAN
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=520&lines=CS+Student+%2F%2F+Systems+%26+Algorithms;Competitive+Programming+%26+Problem+Solving;Foundational+Mathematics+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Software+Developer+%26+Competitive+Programmer;Building+High-Efficiency+C%2B%2B+%26+Python+Solutions;Exploring+Machine+Learning+%26+Applied+Math" alt="Typing Banner" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-ayman-a35688387)
-[![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/eilomilo)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:alaa.ayman.data@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/alaa-ayman-a35688387)
+[![Codeforces](https://img.shields.io/badge/Codeforces-18181B?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/eilomilo)
+[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alaa.ayman.data@gmail.com)
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18181B,0D1117&height=3&section=divider" width="100%" />
+</p>
 
-**CORE TOOLCHAIN**
+### **ABOUT ME**
 
-<br/>
+* **Competitive Programmer** actively tackling complex problem sets in C++.
+* Focused on **Machine Learning, Mathematics & Systems Engineering** in Python.
+* Experienced in structured desktop and cross-platform mobile development.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18181B,0D1117&height=3&section=divider" width="100%" />
+</p>
+
+### **CORE TOOLCHAIN**
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=60A5FA" alt="C++" />
@@ -28,4 +38,11 @@
   <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F87171" alt="Git" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18181B,0D1117&height=3&section=divider" width="100%" />
+</p>
 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
