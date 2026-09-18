@@ -38,9 +38,6 @@
   <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F87171" alt="Git" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18181B,0D1117&height=3&section=divider" width="100%" />
-</p>
 
 
 <p align="center">
